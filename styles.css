@@ -1,55 +1,55 @@
 body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            background-color: #f4f4f4;
-        }
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #f4f4f4;
+}
 
-        .container {
-            width: 1100px;
-            background: #ffffff;
-            padding: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
+.container {
+    width: 1100px;
+    background: #ffffff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
-        .imageContainer {
-            text-align: center;
-            margin-bottom: 20px;
-        }
+.imageContainer {
+    text-align: center;
+    margin-bottom: 20px;
+}
 
-        .imageContainer img {
-            max-width: 100%;
-            height: auto;
-        }
+.imageContainer img {
+    max-width: 100%;
+    height: auto;
+}
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
 
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: center;
-        }
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
 
-        td:first-child, td:last-child {
-            width: 200px;
-        }
+td:first-child, td:last-child {
+    width: 200px;
+}
 
-        td:nth-child(2) {
-            width: 600px;
-        }
+td:nth-child(2) {
+    width: 600px;
+}
 
-        th {
-            background-color: #f4f4f4;
-            font-weight: bold;
-        }
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
 
-        img {
-            max-width: 100%;
-            height: auto;
-        }
+img {
+    max-width: 100%;
+    height: auto;
+}
